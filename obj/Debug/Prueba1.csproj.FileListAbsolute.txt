@@ -1,0 +1,497 @@
+C:\Tp Univ\Prueba1\Prueba1\bin\Debug\Prueba1.exe.config
+C:\Tp Univ\Prueba1\Prueba1\bin\Debug\Prueba1.exe
+C:\Tp Univ\Prueba1\Prueba1\bin\Debug\Prueba1.pdb
+C:\Tp Univ\Prueba1\Prueba1\obj\Debug\Prueba1.csprojResolveAssemblyReference.cache
+C:\Tp Univ\Prueba1\Prueba1\obj\Debug\Prueba1.Form1.resources
+C:\Tp Univ\Prueba1\Prueba1\obj\Debug\Prueba1.Properties.Resources.resources
+C:\Tp Univ\Prueba1\Prueba1\obj\Debug\Prueba1.csproj.GenerateResource.Cache
+C:\Tp Univ\Prueba1\Prueba1\obj\Debug\Prueba1.exe
+C:\Tp Univ\Prueba1\Prueba1\obj\Debug\Prueba1.pdb
+E:\Prueba1\Prueba1\bin\Debug\Prueba1.exe.config
+E:\Prueba1\Prueba1\obj\Debug\Prueba1.exe
+E:\Prueba1\Prueba1\obj\Debug\Prueba1.pdb
+E:\Prueba1\Prueba1\bin\Debug\Prueba1.exe
+E:\Prueba1\Prueba1\bin\Debug\Prueba1.pdb
+E:\Prueba1\Prueba1\obj\Debug\Prueba1.csprojResolveAssemblyReference.cache
+E:\Prueba1\Prueba1\obj\Debug\Prueba1.Form1.resources
+E:\Prueba1\Prueba1\obj\Debug\Prueba1.Properties.Resources.resources
+E:\Prueba1\Prueba1\obj\Debug\Prueba1.csproj.GenerateResource.Cache
+E:\Prueba1\Prueba1\obj\Debug\Prueba1.Mostratablas.resources
+C:\Users\Administrador\Desktop\Prueba1\Prueba1\bin\Debug\Prueba1.exe.config
+C:\Users\Administrador\Desktop\Prueba1\Prueba1\obj\Debug\Prueba1.exe
+C:\Users\Administrador\Desktop\Prueba1\Prueba1\obj\Debug\Prueba1.pdb
+C:\Users\Administrador\Desktop\Prueba1\Prueba1\bin\Debug\Prueba1.exe
+C:\Users\Administrador\Desktop\Prueba1\Prueba1\bin\Debug\Prueba1.pdb
+C:\Users\Administrador\Desktop\Prueba1\Prueba1\obj\Debug\Prueba1.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\Prueba1\Prueba1\obj\Debug\Prueba1.Form1.resources
+C:\Users\Administrador\Desktop\Prueba1\Prueba1\obj\Debug\Prueba1.Mostratablas.resources
+C:\Users\Administrador\Desktop\Prueba1\Prueba1\obj\Debug\Prueba1.Properties.Resources.resources
+C:\Users\Administrador\Desktop\Prueba1\Prueba1\obj\Debug\Prueba1.csproj.GenerateResource.Cache
+C:\Users\Administrador\Desktop\Prueba1\Prueba1\obj\Debug\Prueba1.Agregaralumno.resources
+C:\Users\Administrador\Desktop\PROGYLAB3 (PROYECTO)\Prueba1\Prueba1\bin\Debug\Prueba1.exe.config
+C:\Users\Administrador\Desktop\PROGYLAB3 (PROYECTO)\Prueba1\Prueba1\obj\Debug\Prueba1.exe
+C:\Users\Administrador\Desktop\PROGYLAB3 (PROYECTO)\Prueba1\Prueba1\obj\Debug\Prueba1.pdb
+C:\Users\Administrador\Desktop\PROGYLAB3 (PROYECTO)\Prueba1\Prueba1\bin\Debug\Prueba1.exe
+C:\Users\Administrador\Desktop\PROGYLAB3 (PROYECTO)\Prueba1\Prueba1\bin\Debug\Prueba1.pdb
+C:\Users\Administrador\Desktop\PROGYLAB3 (PROYECTO)\Prueba1\Prueba1\obj\Debug\Prueba1.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\PROGYLAB3 (PROYECTO)\Prueba1\Prueba1\obj\Debug\Prueba1.Agregaralumno.resources
+C:\Users\Administrador\Desktop\PROGYLAB3 (PROYECTO)\Prueba1\Prueba1\obj\Debug\Prueba1.Form1.resources
+C:\Users\Administrador\Desktop\PROGYLAB3 (PROYECTO)\Prueba1\Prueba1\obj\Debug\Prueba1.Mostratablas.resources
+C:\Users\Administrador\Desktop\PROGYLAB3 (PROYECTO)\Prueba1\Prueba1\obj\Debug\Prueba1.Properties.Resources.resources
+C:\Users\Administrador\Desktop\PROGYLAB3 (PROYECTO)\Prueba1\Prueba1\obj\Debug\Prueba1.csproj.GenerateResource.Cache
+C:\PROGYLAB3 (PROYECTO)\Prueba1\Prueba1\bin\Debug\Prueba1.exe.config
+C:\PROGYLAB3 (PROYECTO)\Prueba1\Prueba1\obj\Debug\Prueba1.exe
+C:\PROGYLAB3 (PROYECTO)\Prueba1\Prueba1\obj\Debug\Prueba1.pdb
+C:\PROGYLAB3 (PROYECTO)\Prueba1\Prueba1\bin\Debug\Prueba1.exe
+C:\PROGYLAB3 (PROYECTO)\Prueba1\Prueba1\bin\Debug\Prueba1.pdb
+C:\PROGYLAB3 (PROYECTO)\Prueba1\Prueba1\obj\Debug\Prueba1.csprojResolveAssemblyReference.cache
+C:\PROGYLAB3 (PROYECTO)\Prueba1\Prueba1\obj\Debug\Prueba1.Agregaralumno.resources
+C:\PROGYLAB3 (PROYECTO)\Prueba1\Prueba1\obj\Debug\Prueba1.Form1.resources
+C:\PROGYLAB3 (PROYECTO)\Prueba1\Prueba1\obj\Debug\Prueba1.Mostratablas.resources
+C:\PROGYLAB3 (PROYECTO)\Prueba1\Prueba1\obj\Debug\Prueba1.Properties.Resources.resources
+C:\PROGYLAB3 (PROYECTO)\Prueba1\Prueba1\obj\Debug\Prueba1.csproj.GenerateResource.Cache
+C:\PROGYLAB3 (PROYECTO)\Prueba1\Prueba1\obj\Debug\Prueba1.EliminarAlumno.resources
+C:\PROGYLAB3 (PROYECTO)\Prueba1\Prueba1\obj\Debug\Prueba1.ModificarAlumno.resources
+C:\PROGYLAB3 (PROYECTO)\Prueba1\Prueba1\obj\Debug\Prueba1.AgregarMateria.resources
+C:\PROGYLAB3 (PROYECTO)\Prueba1\Prueba1\obj\Debug\Prueba1.AgregarProfesor.resources
+C:\PROGYLAB3 (PROYECTO)\Prueba1\Prueba1\obj\Debug\Prueba1.EliminarProfesor.resources
+C:\PROGYLAB3 (PROYECTO)\Prueba1\Prueba1\obj\Debug\Prueba1.ModificarProfesor.resources
+C:\PROGYLAB3 (PROYECTO)\Prueba1\Prueba1\obj\Debug\Prueba1.EliminarMateria.resources
+C:\PROGYLAB3 (PROYECTO)\Prueba1\Prueba1\obj\Debug\Prueba1.ModificarMateria.resources
+C:\PROGYLAB3 (PROYECTO)\Prueba1\Prueba1\obj\Debug\Prueba1.AgregarEmpleado.resources
+C:\PROGYLAB3 (PROYECTO)\Prueba1\Prueba1\obj\Debug\Prueba1.EliminarEmpleado.resources
+C:\PROGYLAB3 (PROYECTO)\Prueba1\Prueba1\obj\Debug\Prueba1.ModificarEmpleado.resources
+C:\PROGYLAB3 (PROYECTO)\Prueba1\Prueba1\obj\Debug\Prueba1.AgregarAula.resources
+C:\PROGYLAB3 (PROYECTO)\Prueba1\Prueba1\obj\Debug\Prueba1.EliminarAula.resources
+C:\PROGYLAB3 (PROYECTO)\Prueba1\Prueba1\obj\Debug\Prueba1.ModificarAulas.resources
+C:\PROGYLAB3 (PROYECTO)\Prueba1\Prueba1\obj\Debug\Prueba1.AgregarCarrera.resources
+C:\PROGYLAB3 (PROYECTO)\Prueba1\Prueba1\obj\Debug\Prueba1.EliminarCarrera.resources
+C:\PROGYLAB3 (PROYECTO)\Prueba1\Prueba1\obj\Debug\Prueba1.ModificarCarrera.resources
+C:\PROGYLAB3 (PROYECTO)\Prueba1\Prueba1\obj\Debug\Prueba1.AgregarTutor.resources
+C:\PROGYLAB3 (PROYECTO)\Prueba1\Prueba1\obj\Debug\Prueba1.EliminarTutor.resources
+C:\PROGYLAB3 (PROYECTO)\Prueba1\Prueba1\obj\Debug\Prueba1.ModificarTutor.resources
+C:\PROGYLAB3 (PROYECTO)\Prueba1\Prueba1\obj\Debug\Prueba1.AgregarDirectivos.resources
+C:\PROGYLAB3 (PROYECTO)\Prueba1\Prueba1\obj\Debug\Prueba1.ModificarDirectivo.resources
+C:\PROGYLAB3 (PROYECTO)\Prueba1\Prueba1\obj\Debug\Prueba1.EliminarDirectivo.resources
+C:\PROGYLAB3 (PROYECTO)\Prueba1\Prueba1\obj\Debug\Prueba1.AgregarHorario.resources
+C:\PROGYLAB3 (PROYECTO)\Prueba1\Prueba1\obj\Debug\Prueba1.ModificarHorario.resources
+C:\PROGYLAB3 (PROYECTO)\Prueba1\Prueba1\obj\Debug\Prueba1.EliminarHorario.resources
+C:\PROGYLAB3 (PROYECTO)\Prueba1\Prueba1\obj\Debug\Prueba1.MateriaxAlumno.resources
+C:\PROGYLAB3 (PROYECTO)\Prueba1\Prueba1\obj\Debug\Prueba1.TutorxAlumno.resources
+C:\PROGYLAB3 (PROYECTO)\Prueba1\Prueba1\obj\Debug\Prueba1.DirectivosxCarrera.resources
+C:\PROGYLAB3 (PROYECTO)\Prueba1\Prueba1\obj\Debug\Prueba1.AulaxMateria.resources
+C:\PROGYLAB3 (PROYECTO)\Prueba1\Prueba1\obj\Debug\Prueba1.MateriasxCarrera.resources
+C:\PROGYLAB3 (PROYECTO)\Prueba1\Prueba1\obj\Debug\Prueba1.MateriaxProfesor.resources
+C:\PROGYLAB3 (PROYECTO)\Prueba1\Prueba1\obj\Debug\Prueba1.MostrarMateria.resources
+C:\Users\Usuario\Desktop\PROGYLAB3 (PROYECTO)\Prueba1\Prueba1\bin\Debug\Prueba1.exe.config
+C:\Users\Usuario\Desktop\PROGYLAB3 (PROYECTO)\Prueba1\Prueba1\obj\Debug\Prueba1.exe
+C:\Users\Usuario\Desktop\PROGYLAB3 (PROYECTO)\Prueba1\Prueba1\obj\Debug\Prueba1.pdb
+C:\Users\Usuario\Desktop\PROGYLAB3 (PROYECTO)\Prueba1\Prueba1\bin\Debug\Prueba1.exe
+C:\Users\Usuario\Desktop\PROGYLAB3 (PROYECTO)\Prueba1\Prueba1\bin\Debug\Prueba1.pdb
+C:\Users\Usuario\Desktop\PROGYLAB3 (PROYECTO)\Prueba1\Prueba1\obj\Debug\Prueba1.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\PROGYLAB3 (PROYECTO)\Prueba1\Prueba1\obj\Debug\Prueba1.Agregaralumno.resources
+C:\Users\Usuario\Desktop\PROGYLAB3 (PROYECTO)\Prueba1\Prueba1\obj\Debug\Prueba1.AgregarAula.resources
+C:\Users\Usuario\Desktop\PROGYLAB3 (PROYECTO)\Prueba1\Prueba1\obj\Debug\Prueba1.AgregarCarrera.resources
+C:\Users\Usuario\Desktop\PROGYLAB3 (PROYECTO)\Prueba1\Prueba1\obj\Debug\Prueba1.AgregarDirectivos.resources
+C:\Users\Usuario\Desktop\PROGYLAB3 (PROYECTO)\Prueba1\Prueba1\obj\Debug\Prueba1.AgregarEmpleado.resources
+C:\Users\Usuario\Desktop\PROGYLAB3 (PROYECTO)\Prueba1\Prueba1\obj\Debug\Prueba1.AgregarHorario.resources
+C:\Users\Usuario\Desktop\PROGYLAB3 (PROYECTO)\Prueba1\Prueba1\obj\Debug\Prueba1.AgregarMateria.resources
+C:\Users\Usuario\Desktop\PROGYLAB3 (PROYECTO)\Prueba1\Prueba1\obj\Debug\Prueba1.AgregarProfesor.resources
+C:\Users\Usuario\Desktop\PROGYLAB3 (PROYECTO)\Prueba1\Prueba1\obj\Debug\Prueba1.AgregarTutor.resources
+C:\Users\Usuario\Desktop\PROGYLAB3 (PROYECTO)\Prueba1\Prueba1\obj\Debug\Prueba1.AulaxMateria.resources
+C:\Users\Usuario\Desktop\PROGYLAB3 (PROYECTO)\Prueba1\Prueba1\obj\Debug\Prueba1.DirectivosxCarrera.resources
+C:\Users\Usuario\Desktop\PROGYLAB3 (PROYECTO)\Prueba1\Prueba1\obj\Debug\Prueba1.EliminarAlumno.resources
+C:\Users\Usuario\Desktop\PROGYLAB3 (PROYECTO)\Prueba1\Prueba1\obj\Debug\Prueba1.EliminarAula.resources
+C:\Users\Usuario\Desktop\PROGYLAB3 (PROYECTO)\Prueba1\Prueba1\obj\Debug\Prueba1.EliminarCarrera.resources
+C:\Users\Usuario\Desktop\PROGYLAB3 (PROYECTO)\Prueba1\Prueba1\obj\Debug\Prueba1.EliminarDirectivo.resources
+C:\Users\Usuario\Desktop\PROGYLAB3 (PROYECTO)\Prueba1\Prueba1\obj\Debug\Prueba1.EliminarEmpleado.resources
+C:\Users\Usuario\Desktop\PROGYLAB3 (PROYECTO)\Prueba1\Prueba1\obj\Debug\Prueba1.EliminarHorario.resources
+C:\Users\Usuario\Desktop\PROGYLAB3 (PROYECTO)\Prueba1\Prueba1\obj\Debug\Prueba1.EliminarMateria.resources
+C:\Users\Usuario\Desktop\PROGYLAB3 (PROYECTO)\Prueba1\Prueba1\obj\Debug\Prueba1.EliminarProfesor.resources
+C:\Users\Usuario\Desktop\PROGYLAB3 (PROYECTO)\Prueba1\Prueba1\obj\Debug\Prueba1.EliminarTutor.resources
+C:\Users\Usuario\Desktop\PROGYLAB3 (PROYECTO)\Prueba1\Prueba1\obj\Debug\Prueba1.Form1.resources
+C:\Users\Usuario\Desktop\PROGYLAB3 (PROYECTO)\Prueba1\Prueba1\obj\Debug\Prueba1.MateriasxCarrera.resources
+C:\Users\Usuario\Desktop\PROGYLAB3 (PROYECTO)\Prueba1\Prueba1\obj\Debug\Prueba1.MateriaxAlumno.resources
+C:\Users\Usuario\Desktop\PROGYLAB3 (PROYECTO)\Prueba1\Prueba1\obj\Debug\Prueba1.MateriaxProfesor.resources
+C:\Users\Usuario\Desktop\PROGYLAB3 (PROYECTO)\Prueba1\Prueba1\obj\Debug\Prueba1.ModificarAlumno.resources
+C:\Users\Usuario\Desktop\PROGYLAB3 (PROYECTO)\Prueba1\Prueba1\obj\Debug\Prueba1.ModificarAulas.resources
+C:\Users\Usuario\Desktop\PROGYLAB3 (PROYECTO)\Prueba1\Prueba1\obj\Debug\Prueba1.ModificarCarrera.resources
+C:\Users\Usuario\Desktop\PROGYLAB3 (PROYECTO)\Prueba1\Prueba1\obj\Debug\Prueba1.ModificarDirectivo.resources
+C:\Users\Usuario\Desktop\PROGYLAB3 (PROYECTO)\Prueba1\Prueba1\obj\Debug\Prueba1.ModificarEmpleado.resources
+C:\Users\Usuario\Desktop\PROGYLAB3 (PROYECTO)\Prueba1\Prueba1\obj\Debug\Prueba1.ModificarHorario.resources
+C:\Users\Usuario\Desktop\PROGYLAB3 (PROYECTO)\Prueba1\Prueba1\obj\Debug\Prueba1.ModificarMateria.resources
+C:\Users\Usuario\Desktop\PROGYLAB3 (PROYECTO)\Prueba1\Prueba1\obj\Debug\Prueba1.ModificarProfesor.resources
+C:\Users\Usuario\Desktop\PROGYLAB3 (PROYECTO)\Prueba1\Prueba1\obj\Debug\Prueba1.ModificarTutor.resources
+C:\Users\Usuario\Desktop\PROGYLAB3 (PROYECTO)\Prueba1\Prueba1\obj\Debug\Prueba1.MostrarMateria.resources
+C:\Users\Usuario\Desktop\PROGYLAB3 (PROYECTO)\Prueba1\Prueba1\obj\Debug\Prueba1.Mostratablas.resources
+C:\Users\Usuario\Desktop\PROGYLAB3 (PROYECTO)\Prueba1\Prueba1\obj\Debug\Prueba1.Properties.Resources.resources
+C:\Users\Usuario\Desktop\PROGYLAB3 (PROYECTO)\Prueba1\Prueba1\obj\Debug\Prueba1.TutorxAlumno.resources
+C:\Users\Usuario\Desktop\PROGYLAB3 (PROYECTO)\Prueba1\Prueba1\obj\Debug\Prueba1.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\PROGYLAB3 (PROYECTO)00022\Prueba1\Prueba1\bin\Debug\Prueba1.exe.config
+C:\Users\Usuario\Desktop\PROGYLAB3 (PROYECTO)00022\Prueba1\Prueba1\obj\Debug\Prueba1.exe
+C:\Users\Usuario\Desktop\PROGYLAB3 (PROYECTO)00022\Prueba1\Prueba1\obj\Debug\Prueba1.pdb
+C:\Users\Usuario\Desktop\PROGYLAB3 (PROYECTO)00022\Prueba1\Prueba1\bin\Debug\Prueba1.exe
+C:\Users\Usuario\Desktop\PROGYLAB3 (PROYECTO)00022\Prueba1\Prueba1\bin\Debug\Prueba1.pdb
+C:\Users\Usuario\Desktop\PROGYLAB3 (PROYECTO)00022\Prueba1\Prueba1\obj\Debug\Prueba1.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\PROGYLAB3 (PROYECTO)00022\Prueba1\Prueba1\obj\Debug\Prueba1.Agregaralumno.resources
+C:\Users\Usuario\Desktop\PROGYLAB3 (PROYECTO)00022\Prueba1\Prueba1\obj\Debug\Prueba1.AgregarAula.resources
+C:\Users\Usuario\Desktop\PROGYLAB3 (PROYECTO)00022\Prueba1\Prueba1\obj\Debug\Prueba1.AgregarCarrera.resources
+C:\Users\Usuario\Desktop\PROGYLAB3 (PROYECTO)00022\Prueba1\Prueba1\obj\Debug\Prueba1.AgregarDirectivos.resources
+C:\Users\Usuario\Desktop\PROGYLAB3 (PROYECTO)00022\Prueba1\Prueba1\obj\Debug\Prueba1.AgregarEmpleado.resources
+C:\Users\Usuario\Desktop\PROGYLAB3 (PROYECTO)00022\Prueba1\Prueba1\obj\Debug\Prueba1.AgregarHorario.resources
+C:\Users\Usuario\Desktop\PROGYLAB3 (PROYECTO)00022\Prueba1\Prueba1\obj\Debug\Prueba1.AgregarMateria.resources
+C:\Users\Usuario\Desktop\PROGYLAB3 (PROYECTO)00022\Prueba1\Prueba1\obj\Debug\Prueba1.AgregarProfesor.resources
+C:\Users\Usuario\Desktop\PROGYLAB3 (PROYECTO)00022\Prueba1\Prueba1\obj\Debug\Prueba1.AgregarTutor.resources
+C:\Users\Usuario\Desktop\PROGYLAB3 (PROYECTO)00022\Prueba1\Prueba1\obj\Debug\Prueba1.AulaxMateria.resources
+C:\Users\Usuario\Desktop\PROGYLAB3 (PROYECTO)00022\Prueba1\Prueba1\obj\Debug\Prueba1.DirectivosxCarrera.resources
+C:\Users\Usuario\Desktop\PROGYLAB3 (PROYECTO)00022\Prueba1\Prueba1\obj\Debug\Prueba1.EliminarAlumno.resources
+C:\Users\Usuario\Desktop\PROGYLAB3 (PROYECTO)00022\Prueba1\Prueba1\obj\Debug\Prueba1.EliminarAula.resources
+C:\Users\Usuario\Desktop\PROGYLAB3 (PROYECTO)00022\Prueba1\Prueba1\obj\Debug\Prueba1.EliminarCarrera.resources
+C:\Users\Usuario\Desktop\PROGYLAB3 (PROYECTO)00022\Prueba1\Prueba1\obj\Debug\Prueba1.EliminarDirectivo.resources
+C:\Users\Usuario\Desktop\PROGYLAB3 (PROYECTO)00022\Prueba1\Prueba1\obj\Debug\Prueba1.EliminarEmpleado.resources
+C:\Users\Usuario\Desktop\PROGYLAB3 (PROYECTO)00022\Prueba1\Prueba1\obj\Debug\Prueba1.EliminarHorario.resources
+C:\Users\Usuario\Desktop\PROGYLAB3 (PROYECTO)00022\Prueba1\Prueba1\obj\Debug\Prueba1.EliminarMateria.resources
+C:\Users\Usuario\Desktop\PROGYLAB3 (PROYECTO)00022\Prueba1\Prueba1\obj\Debug\Prueba1.EliminarProfesor.resources
+C:\Users\Usuario\Desktop\PROGYLAB3 (PROYECTO)00022\Prueba1\Prueba1\obj\Debug\Prueba1.EliminarTutor.resources
+C:\Users\Usuario\Desktop\PROGYLAB3 (PROYECTO)00022\Prueba1\Prueba1\obj\Debug\Prueba1.Form1.resources
+C:\Users\Usuario\Desktop\PROGYLAB3 (PROYECTO)00022\Prueba1\Prueba1\obj\Debug\Prueba1.MateriasxCarrera.resources
+C:\Users\Usuario\Desktop\PROGYLAB3 (PROYECTO)00022\Prueba1\Prueba1\obj\Debug\Prueba1.MateriaxAlumno.resources
+C:\Users\Usuario\Desktop\PROGYLAB3 (PROYECTO)00022\Prueba1\Prueba1\obj\Debug\Prueba1.MateriaxProfesor.resources
+C:\Users\Usuario\Desktop\PROGYLAB3 (PROYECTO)00022\Prueba1\Prueba1\obj\Debug\Prueba1.ModificarAlumno.resources
+C:\Users\Usuario\Desktop\PROGYLAB3 (PROYECTO)00022\Prueba1\Prueba1\obj\Debug\Prueba1.ModificarAulas.resources
+C:\Users\Usuario\Desktop\PROGYLAB3 (PROYECTO)00022\Prueba1\Prueba1\obj\Debug\Prueba1.ModificarCarrera.resources
+C:\Users\Usuario\Desktop\PROGYLAB3 (PROYECTO)00022\Prueba1\Prueba1\obj\Debug\Prueba1.ModificarDirectivo.resources
+C:\Users\Usuario\Desktop\PROGYLAB3 (PROYECTO)00022\Prueba1\Prueba1\obj\Debug\Prueba1.ModificarEmpleado.resources
+C:\Users\Usuario\Desktop\PROGYLAB3 (PROYECTO)00022\Prueba1\Prueba1\obj\Debug\Prueba1.ModificarHorario.resources
+C:\Users\Usuario\Desktop\PROGYLAB3 (PROYECTO)00022\Prueba1\Prueba1\obj\Debug\Prueba1.ModificarMateria.resources
+C:\Users\Usuario\Desktop\PROGYLAB3 (PROYECTO)00022\Prueba1\Prueba1\obj\Debug\Prueba1.ModificarProfesor.resources
+C:\Users\Usuario\Desktop\PROGYLAB3 (PROYECTO)00022\Prueba1\Prueba1\obj\Debug\Prueba1.ModificarTutor.resources
+C:\Users\Usuario\Desktop\PROGYLAB3 (PROYECTO)00022\Prueba1\Prueba1\obj\Debug\Prueba1.MostrarMateria.resources
+C:\Users\Usuario\Desktop\PROGYLAB3 (PROYECTO)00022\Prueba1\Prueba1\obj\Debug\Prueba1.Mostratablas.resources
+C:\Users\Usuario\Desktop\PROGYLAB3 (PROYECTO)00022\Prueba1\Prueba1\obj\Debug\Prueba1.Properties.Resources.resources
+C:\Users\Usuario\Desktop\PROGYLAB3 (PROYECTO)00022\Prueba1\Prueba1\obj\Debug\Prueba1.TutorxAlumno.resources
+C:\Users\Usuario\Desktop\PROGYLAB3 (PROYECTO)00022\Prueba1\Prueba1\obj\Debug\Prueba1.csproj.GenerateResource.Cache
+C:\Users\Francis\Desktop\PROGYLAB3 (PROYECTO)00022\Prueba1\Prueba1\bin\Debug\Prueba1.exe.config
+C:\Users\Francis\Desktop\PROGYLAB3 (PROYECTO)00022\Prueba1\Prueba1\obj\Debug\Prueba1.exe
+C:\Users\Francis\Desktop\PROGYLAB3 (PROYECTO)00022\Prueba1\Prueba1\obj\Debug\Prueba1.pdb
+E:\PROGYLAB3 (PROYECTO)00022\Prueba1\bin\Debug\Prueba1.exe.config
+E:\PROGYLAB3 (PROYECTO)00022\Prueba1\obj\Debug\Prueba1.exe
+E:\PROGYLAB3 (PROYECTO)00022\Prueba1\obj\Debug\Prueba1.pdb
+E:\PROGYLAB3 (PROYECTO)00022\Prueba1\bin\Debug\Prueba1.exe
+E:\PROGYLAB3 (PROYECTO)00022\Prueba1\bin\Debug\Prueba1.pdb
+E:\PROGYLAB3 (PROYECTO)00022\Prueba1\obj\Debug\Prueba1.csprojResolveAssemblyReference.cache
+E:\PROGYLAB3 (PROYECTO)00022\Prueba1\obj\Debug\Prueba1.Agregaralumno.resources
+E:\PROGYLAB3 (PROYECTO)00022\Prueba1\obj\Debug\Prueba1.AgregarAula.resources
+E:\PROGYLAB3 (PROYECTO)00022\Prueba1\obj\Debug\Prueba1.AgregarCarrera.resources
+E:\PROGYLAB3 (PROYECTO)00022\Prueba1\obj\Debug\Prueba1.AgregarDirectivos.resources
+E:\PROGYLAB3 (PROYECTO)00022\Prueba1\obj\Debug\Prueba1.AgregarEmpleado.resources
+E:\PROGYLAB3 (PROYECTO)00022\Prueba1\obj\Debug\Prueba1.AgregarHorario.resources
+E:\PROGYLAB3 (PROYECTO)00022\Prueba1\obj\Debug\Prueba1.AgregarMateria.resources
+E:\PROGYLAB3 (PROYECTO)00022\Prueba1\obj\Debug\Prueba1.AgregarProfesor.resources
+E:\PROGYLAB3 (PROYECTO)00022\Prueba1\obj\Debug\Prueba1.AgregarTutor.resources
+E:\PROGYLAB3 (PROYECTO)00022\Prueba1\obj\Debug\Prueba1.AulaxMateria.resources
+E:\PROGYLAB3 (PROYECTO)00022\Prueba1\obj\Debug\Prueba1.DirectivosxCarrera.resources
+E:\PROGYLAB3 (PROYECTO)00022\Prueba1\obj\Debug\Prueba1.EliminarAlumno.resources
+E:\PROGYLAB3 (PROYECTO)00022\Prueba1\obj\Debug\Prueba1.EliminarAula.resources
+E:\PROGYLAB3 (PROYECTO)00022\Prueba1\obj\Debug\Prueba1.EliminarCarrera.resources
+E:\PROGYLAB3 (PROYECTO)00022\Prueba1\obj\Debug\Prueba1.EliminarDirectivo.resources
+E:\PROGYLAB3 (PROYECTO)00022\Prueba1\obj\Debug\Prueba1.EliminarEmpleado.resources
+E:\PROGYLAB3 (PROYECTO)00022\Prueba1\obj\Debug\Prueba1.EliminarHorario.resources
+E:\PROGYLAB3 (PROYECTO)00022\Prueba1\obj\Debug\Prueba1.EliminarMateria.resources
+E:\PROGYLAB3 (PROYECTO)00022\Prueba1\obj\Debug\Prueba1.EliminarProfesor.resources
+E:\PROGYLAB3 (PROYECTO)00022\Prueba1\obj\Debug\Prueba1.EliminarTutor.resources
+E:\PROGYLAB3 (PROYECTO)00022\Prueba1\obj\Debug\Prueba1.Form1.resources
+E:\PROGYLAB3 (PROYECTO)00022\Prueba1\obj\Debug\Prueba1.MateriasxCarrera.resources
+E:\PROGYLAB3 (PROYECTO)00022\Prueba1\obj\Debug\Prueba1.MateriaxAlumno.resources
+E:\PROGYLAB3 (PROYECTO)00022\Prueba1\obj\Debug\Prueba1.MateriaxProfesor.resources
+E:\PROGYLAB3 (PROYECTO)00022\Prueba1\obj\Debug\Prueba1.ModificarAlumno.resources
+E:\PROGYLAB3 (PROYECTO)00022\Prueba1\obj\Debug\Prueba1.ModificarAulas.resources
+E:\PROGYLAB3 (PROYECTO)00022\Prueba1\obj\Debug\Prueba1.ModificarCarrera.resources
+E:\PROGYLAB3 (PROYECTO)00022\Prueba1\obj\Debug\Prueba1.ModificarDirectivo.resources
+E:\PROGYLAB3 (PROYECTO)00022\Prueba1\obj\Debug\Prueba1.ModificarEmpleado.resources
+E:\PROGYLAB3 (PROYECTO)00022\Prueba1\obj\Debug\Prueba1.ModificarHorario.resources
+E:\PROGYLAB3 (PROYECTO)00022\Prueba1\obj\Debug\Prueba1.ModificarMateria.resources
+E:\PROGYLAB3 (PROYECTO)00022\Prueba1\obj\Debug\Prueba1.ModificarProfesor.resources
+E:\PROGYLAB3 (PROYECTO)00022\Prueba1\obj\Debug\Prueba1.ModificarTutor.resources
+E:\PROGYLAB3 (PROYECTO)00022\Prueba1\obj\Debug\Prueba1.MostrarMateria.resources
+E:\PROGYLAB3 (PROYECTO)00022\Prueba1\obj\Debug\Prueba1.Mostratablas.resources
+E:\PROGYLAB3 (PROYECTO)00022\Prueba1\obj\Debug\Prueba1.Properties.Resources.resources
+E:\PROGYLAB3 (PROYECTO)00022\Prueba1\obj\Debug\Prueba1.TutorxAlumno.resources
+E:\PROGYLAB3 (PROYECTO)00022\Prueba1\obj\Debug\Prueba1.csproj.GenerateResource.Cache
+C:\PROGYLAB3 (PROYECTO)00022\Prueba1\bin\Debug\Prueba1.exe.config
+C:\PROGYLAB3 (PROYECTO)00022\Prueba1\obj\Debug\Prueba1.exe
+C:\PROGYLAB3 (PROYECTO)00022\Prueba1\obj\Debug\Prueba1.pdb
+C:\PROGYLAB3 (PROYECTO)00022\Prueba1\bin\Debug\Prueba1.exe
+C:\PROGYLAB3 (PROYECTO)00022\Prueba1\bin\Debug\Prueba1.pdb
+C:\PROGYLAB3 (PROYECTO)00022\Prueba1\obj\Debug\Prueba1.csprojResolveAssemblyReference.cache
+C:\PROGYLAB3 (PROYECTO)00022\Prueba1\obj\Debug\Prueba1.Agregaralumno.resources
+C:\PROGYLAB3 (PROYECTO)00022\Prueba1\obj\Debug\Prueba1.AgregarAula.resources
+C:\PROGYLAB3 (PROYECTO)00022\Prueba1\obj\Debug\Prueba1.AgregarCarrera.resources
+C:\PROGYLAB3 (PROYECTO)00022\Prueba1\obj\Debug\Prueba1.AgregarDirectivos.resources
+C:\PROGYLAB3 (PROYECTO)00022\Prueba1\obj\Debug\Prueba1.AgregarEmpleado.resources
+C:\PROGYLAB3 (PROYECTO)00022\Prueba1\obj\Debug\Prueba1.AgregarHorario.resources
+C:\PROGYLAB3 (PROYECTO)00022\Prueba1\obj\Debug\Prueba1.AgregarMateria.resources
+C:\PROGYLAB3 (PROYECTO)00022\Prueba1\obj\Debug\Prueba1.AgregarProfesor.resources
+C:\PROGYLAB3 (PROYECTO)00022\Prueba1\obj\Debug\Prueba1.AgregarTutor.resources
+C:\PROGYLAB3 (PROYECTO)00022\Prueba1\obj\Debug\Prueba1.AulaxMateria.resources
+C:\PROGYLAB3 (PROYECTO)00022\Prueba1\obj\Debug\Prueba1.DirectivosxCarrera.resources
+C:\PROGYLAB3 (PROYECTO)00022\Prueba1\obj\Debug\Prueba1.EliminarAlumno.resources
+C:\PROGYLAB3 (PROYECTO)00022\Prueba1\obj\Debug\Prueba1.EliminarAula.resources
+C:\PROGYLAB3 (PROYECTO)00022\Prueba1\obj\Debug\Prueba1.EliminarCarrera.resources
+C:\PROGYLAB3 (PROYECTO)00022\Prueba1\obj\Debug\Prueba1.EliminarDirectivo.resources
+C:\PROGYLAB3 (PROYECTO)00022\Prueba1\obj\Debug\Prueba1.EliminarEmpleado.resources
+C:\PROGYLAB3 (PROYECTO)00022\Prueba1\obj\Debug\Prueba1.EliminarHorario.resources
+C:\PROGYLAB3 (PROYECTO)00022\Prueba1\obj\Debug\Prueba1.EliminarMateria.resources
+C:\PROGYLAB3 (PROYECTO)00022\Prueba1\obj\Debug\Prueba1.EliminarProfesor.resources
+C:\PROGYLAB3 (PROYECTO)00022\Prueba1\obj\Debug\Prueba1.EliminarTutor.resources
+C:\PROGYLAB3 (PROYECTO)00022\Prueba1\obj\Debug\Prueba1.Form1.resources
+C:\PROGYLAB3 (PROYECTO)00022\Prueba1\obj\Debug\Prueba1.MateriasxCarrera.resources
+C:\PROGYLAB3 (PROYECTO)00022\Prueba1\obj\Debug\Prueba1.MateriaxAlumno.resources
+C:\PROGYLAB3 (PROYECTO)00022\Prueba1\obj\Debug\Prueba1.MateriaxProfesor.resources
+C:\PROGYLAB3 (PROYECTO)00022\Prueba1\obj\Debug\Prueba1.ModificarAlumno.resources
+C:\PROGYLAB3 (PROYECTO)00022\Prueba1\obj\Debug\Prueba1.ModificarAulas.resources
+C:\PROGYLAB3 (PROYECTO)00022\Prueba1\obj\Debug\Prueba1.ModificarCarrera.resources
+C:\PROGYLAB3 (PROYECTO)00022\Prueba1\obj\Debug\Prueba1.ModificarDirectivo.resources
+C:\PROGYLAB3 (PROYECTO)00022\Prueba1\obj\Debug\Prueba1.ModificarEmpleado.resources
+C:\PROGYLAB3 (PROYECTO)00022\Prueba1\obj\Debug\Prueba1.ModificarHorario.resources
+C:\PROGYLAB3 (PROYECTO)00022\Prueba1\obj\Debug\Prueba1.ModificarMateria.resources
+C:\PROGYLAB3 (PROYECTO)00022\Prueba1\obj\Debug\Prueba1.ModificarProfesor.resources
+C:\PROGYLAB3 (PROYECTO)00022\Prueba1\obj\Debug\Prueba1.ModificarTutor.resources
+C:\PROGYLAB3 (PROYECTO)00022\Prueba1\obj\Debug\Prueba1.MostrarMateria.resources
+C:\PROGYLAB3 (PROYECTO)00022\Prueba1\obj\Debug\Prueba1.Mostratablas.resources
+C:\PROGYLAB3 (PROYECTO)00022\Prueba1\obj\Debug\Prueba1.Properties.Resources.resources
+C:\PROGYLAB3 (PROYECTO)00022\Prueba1\obj\Debug\Prueba1.TutorxAlumno.resources
+C:\PROGYLAB3 (PROYECTO)00022\Prueba1\obj\Debug\Prueba1.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\CARPETA FINAL\Prueba1\bin\Debug\Prueba1.exe.config
+C:\Users\Usuario\Desktop\CARPETA FINAL\Prueba1\obj\Debug\Prueba1.exe
+C:\Users\Usuario\Desktop\CARPETA FINAL\Prueba1\obj\Debug\Prueba1.pdb
+C:\Users\Usuario\Desktop\CARPETA FINAL\Prueba1\bin\Debug\Prueba1.exe
+C:\Users\Usuario\Desktop\CARPETA FINAL\Prueba1\bin\Debug\Prueba1.pdb
+C:\Users\Usuario\Desktop\CARPETA FINAL\Prueba1\obj\Debug\Prueba1.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\CARPETA FINAL\Prueba1\obj\Debug\Prueba1.Agregaralumno.resources
+C:\Users\Usuario\Desktop\CARPETA FINAL\Prueba1\obj\Debug\Prueba1.AgregarAula.resources
+C:\Users\Usuario\Desktop\CARPETA FINAL\Prueba1\obj\Debug\Prueba1.AgregarCarrera.resources
+C:\Users\Usuario\Desktop\CARPETA FINAL\Prueba1\obj\Debug\Prueba1.AgregarDirectivos.resources
+C:\Users\Usuario\Desktop\CARPETA FINAL\Prueba1\obj\Debug\Prueba1.AgregarEmpleado.resources
+C:\Users\Usuario\Desktop\CARPETA FINAL\Prueba1\obj\Debug\Prueba1.AgregarHorario.resources
+C:\Users\Usuario\Desktop\CARPETA FINAL\Prueba1\obj\Debug\Prueba1.AgregarMateria.resources
+C:\Users\Usuario\Desktop\CARPETA FINAL\Prueba1\obj\Debug\Prueba1.AgregarProfesor.resources
+C:\Users\Usuario\Desktop\CARPETA FINAL\Prueba1\obj\Debug\Prueba1.AgregarTutor.resources
+C:\Users\Usuario\Desktop\CARPETA FINAL\Prueba1\obj\Debug\Prueba1.AulaxMateria.resources
+C:\Users\Usuario\Desktop\CARPETA FINAL\Prueba1\obj\Debug\Prueba1.DirectivosxCarrera.resources
+C:\Users\Usuario\Desktop\CARPETA FINAL\Prueba1\obj\Debug\Prueba1.EliminarAlumno.resources
+C:\Users\Usuario\Desktop\CARPETA FINAL\Prueba1\obj\Debug\Prueba1.EliminarAula.resources
+C:\Users\Usuario\Desktop\CARPETA FINAL\Prueba1\obj\Debug\Prueba1.EliminarCarrera.resources
+C:\Users\Usuario\Desktop\CARPETA FINAL\Prueba1\obj\Debug\Prueba1.EliminarDirectivo.resources
+C:\Users\Usuario\Desktop\CARPETA FINAL\Prueba1\obj\Debug\Prueba1.EliminarEmpleado.resources
+C:\Users\Usuario\Desktop\CARPETA FINAL\Prueba1\obj\Debug\Prueba1.EliminarHorario.resources
+C:\Users\Usuario\Desktop\CARPETA FINAL\Prueba1\obj\Debug\Prueba1.EliminarMateria.resources
+C:\Users\Usuario\Desktop\CARPETA FINAL\Prueba1\obj\Debug\Prueba1.EliminarProfesor.resources
+C:\Users\Usuario\Desktop\CARPETA FINAL\Prueba1\obj\Debug\Prueba1.EliminarTutor.resources
+C:\Users\Usuario\Desktop\CARPETA FINAL\Prueba1\obj\Debug\Prueba1.Form1.resources
+C:\Users\Usuario\Desktop\CARPETA FINAL\Prueba1\obj\Debug\Prueba1.MateriasxCarrera.resources
+C:\Users\Usuario\Desktop\CARPETA FINAL\Prueba1\obj\Debug\Prueba1.MateriaxAlumno.resources
+C:\Users\Usuario\Desktop\CARPETA FINAL\Prueba1\obj\Debug\Prueba1.MateriaxProfesor.resources
+C:\Users\Usuario\Desktop\CARPETA FINAL\Prueba1\obj\Debug\Prueba1.ModificarAlumno.resources
+C:\Users\Usuario\Desktop\CARPETA FINAL\Prueba1\obj\Debug\Prueba1.ModificarAulas.resources
+C:\Users\Usuario\Desktop\CARPETA FINAL\Prueba1\obj\Debug\Prueba1.ModificarCarrera.resources
+C:\Users\Usuario\Desktop\CARPETA FINAL\Prueba1\obj\Debug\Prueba1.ModificarDirectivo.resources
+C:\Users\Usuario\Desktop\CARPETA FINAL\Prueba1\obj\Debug\Prueba1.ModificarEmpleado.resources
+C:\Users\Usuario\Desktop\CARPETA FINAL\Prueba1\obj\Debug\Prueba1.ModificarHorario.resources
+C:\Users\Usuario\Desktop\CARPETA FINAL\Prueba1\obj\Debug\Prueba1.ModificarMateria.resources
+C:\Users\Usuario\Desktop\CARPETA FINAL\Prueba1\obj\Debug\Prueba1.ModificarProfesor.resources
+C:\Users\Usuario\Desktop\CARPETA FINAL\Prueba1\obj\Debug\Prueba1.ModificarTutor.resources
+C:\Users\Usuario\Desktop\CARPETA FINAL\Prueba1\obj\Debug\Prueba1.MostrarMateria.resources
+C:\Users\Usuario\Desktop\CARPETA FINAL\Prueba1\obj\Debug\Prueba1.Mostratablas.resources
+C:\Users\Usuario\Desktop\CARPETA FINAL\Prueba1\obj\Debug\Prueba1.Properties.Resources.resources
+C:\Users\Usuario\Desktop\CARPETA FINAL\Prueba1\obj\Debug\Prueba1.TutorxAlumno.resources
+C:\Users\Usuario\Desktop\CARPETA FINAL\Prueba1\obj\Debug\Prueba1.csproj.GenerateResource.Cache
+C:\CARPETA FINAL\Prueba1\bin\Debug\Prueba1.exe.config
+C:\CARPETA FINAL\Prueba1\obj\Debug\Prueba1.exe
+C:\CARPETA FINAL\Prueba1\obj\Debug\Prueba1.pdb
+C:\Users\Usuario\Desktop\CARPETA FINAL\Prueba1\obj\Debug\Prueba1.AsignarMateria.resources
+C:\Users\Usuario\Desktop\CARPETA FINAL\Prueba1\obj\Debug\Prueba1.AsignarAlumno.resources
+C:\Users\Usuario\Desktop\3 cuatrimestre\Programacion 3\Prueba1\bin\Debug\Prueba1.exe.config
+C:\Users\Usuario\Desktop\3 cuatrimestre\Programacion 3\Prueba1\obj\Debug\Prueba1.exe
+C:\Users\Usuario\Desktop\3 cuatrimestre\Programacion 3\Prueba1\obj\Debug\Prueba1.pdb
+C:\Users\Usuario\Desktop\3 cuatrimestre\Programacion 3\Prueba1\bin\Debug\Prueba1.exe
+C:\Users\Usuario\Desktop\3 cuatrimestre\Programacion 3\Prueba1\bin\Debug\Prueba1.pdb
+C:\Users\Usuario\Desktop\3 cuatrimestre\Programacion 3\Prueba1\obj\Debug\Prueba1.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\3 cuatrimestre\Programacion 3\Prueba1\obj\Debug\Prueba1.Agregaralumno.resources
+C:\Users\Usuario\Desktop\3 cuatrimestre\Programacion 3\Prueba1\obj\Debug\Prueba1.AgregarAula.resources
+C:\Users\Usuario\Desktop\3 cuatrimestre\Programacion 3\Prueba1\obj\Debug\Prueba1.AgregarCarrera.resources
+C:\Users\Usuario\Desktop\3 cuatrimestre\Programacion 3\Prueba1\obj\Debug\Prueba1.AgregarDirectivos.resources
+C:\Users\Usuario\Desktop\3 cuatrimestre\Programacion 3\Prueba1\obj\Debug\Prueba1.AgregarEmpleado.resources
+C:\Users\Usuario\Desktop\3 cuatrimestre\Programacion 3\Prueba1\obj\Debug\Prueba1.AgregarHorario.resources
+C:\Users\Usuario\Desktop\3 cuatrimestre\Programacion 3\Prueba1\obj\Debug\Prueba1.AgregarMateria.resources
+C:\Users\Usuario\Desktop\3 cuatrimestre\Programacion 3\Prueba1\obj\Debug\Prueba1.AgregarProfesor.resources
+C:\Users\Usuario\Desktop\3 cuatrimestre\Programacion 3\Prueba1\obj\Debug\Prueba1.AgregarTutor.resources
+C:\Users\Usuario\Desktop\3 cuatrimestre\Programacion 3\Prueba1\obj\Debug\Prueba1.AsignarAlumno.resources
+C:\Users\Usuario\Desktop\3 cuatrimestre\Programacion 3\Prueba1\obj\Debug\Prueba1.AsignarMateria.resources
+C:\Users\Usuario\Desktop\3 cuatrimestre\Programacion 3\Prueba1\obj\Debug\Prueba1.AulaxMateria.resources
+C:\Users\Usuario\Desktop\3 cuatrimestre\Programacion 3\Prueba1\obj\Debug\Prueba1.DirectivosxCarrera.resources
+C:\Users\Usuario\Desktop\3 cuatrimestre\Programacion 3\Prueba1\obj\Debug\Prueba1.EliminarAlumno.resources
+C:\Users\Usuario\Desktop\3 cuatrimestre\Programacion 3\Prueba1\obj\Debug\Prueba1.EliminarAula.resources
+C:\Users\Usuario\Desktop\3 cuatrimestre\Programacion 3\Prueba1\obj\Debug\Prueba1.EliminarCarrera.resources
+C:\Users\Usuario\Desktop\3 cuatrimestre\Programacion 3\Prueba1\obj\Debug\Prueba1.EliminarDirectivo.resources
+C:\Users\Usuario\Desktop\3 cuatrimestre\Programacion 3\Prueba1\obj\Debug\Prueba1.EliminarEmpleado.resources
+C:\Users\Usuario\Desktop\3 cuatrimestre\Programacion 3\Prueba1\obj\Debug\Prueba1.EliminarHorario.resources
+C:\Users\Usuario\Desktop\3 cuatrimestre\Programacion 3\Prueba1\obj\Debug\Prueba1.EliminarMateria.resources
+C:\Users\Usuario\Desktop\3 cuatrimestre\Programacion 3\Prueba1\obj\Debug\Prueba1.EliminarProfesor.resources
+C:\Users\Usuario\Desktop\3 cuatrimestre\Programacion 3\Prueba1\obj\Debug\Prueba1.EliminarTutor.resources
+C:\Users\Usuario\Desktop\3 cuatrimestre\Programacion 3\Prueba1\obj\Debug\Prueba1.Form1.resources
+C:\Users\Usuario\Desktop\3 cuatrimestre\Programacion 3\Prueba1\obj\Debug\Prueba1.MateriasxCarrera.resources
+C:\Users\Usuario\Desktop\3 cuatrimestre\Programacion 3\Prueba1\obj\Debug\Prueba1.MateriaxAlumno.resources
+C:\Users\Usuario\Desktop\3 cuatrimestre\Programacion 3\Prueba1\obj\Debug\Prueba1.MateriaxProfesor.resources
+C:\Users\Usuario\Desktop\3 cuatrimestre\Programacion 3\Prueba1\obj\Debug\Prueba1.ModificarAlumno.resources
+C:\Users\Usuario\Desktop\3 cuatrimestre\Programacion 3\Prueba1\obj\Debug\Prueba1.ModificarAulas.resources
+C:\Users\Usuario\Desktop\3 cuatrimestre\Programacion 3\Prueba1\obj\Debug\Prueba1.ModificarCarrera.resources
+C:\Users\Usuario\Desktop\3 cuatrimestre\Programacion 3\Prueba1\obj\Debug\Prueba1.ModificarDirectivo.resources
+C:\Users\Usuario\Desktop\3 cuatrimestre\Programacion 3\Prueba1\obj\Debug\Prueba1.ModificarEmpleado.resources
+C:\Users\Usuario\Desktop\3 cuatrimestre\Programacion 3\Prueba1\obj\Debug\Prueba1.ModificarHorario.resources
+C:\Users\Usuario\Desktop\3 cuatrimestre\Programacion 3\Prueba1\obj\Debug\Prueba1.ModificarMateria.resources
+C:\Users\Usuario\Desktop\3 cuatrimestre\Programacion 3\Prueba1\obj\Debug\Prueba1.ModificarProfesor.resources
+C:\Users\Usuario\Desktop\3 cuatrimestre\Programacion 3\Prueba1\obj\Debug\Prueba1.ModificarTutor.resources
+C:\Users\Usuario\Desktop\3 cuatrimestre\Programacion 3\Prueba1\obj\Debug\Prueba1.MostrarMateria.resources
+C:\Users\Usuario\Desktop\3 cuatrimestre\Programacion 3\Prueba1\obj\Debug\Prueba1.Mostratablas.resources
+C:\Users\Usuario\Desktop\3 cuatrimestre\Programacion 3\Prueba1\obj\Debug\Prueba1.Properties.Resources.resources
+C:\Users\Usuario\Desktop\3 cuatrimestre\Programacion 3\Prueba1\obj\Debug\Prueba1.TutorxAlumno.resources
+C:\Users\Usuario\Desktop\3 cuatrimestre\Programacion 3\Prueba1\obj\Debug\Prueba1.csproj.GenerateResource.Cache
+C:\Users\Administrador\Desktop\Programacion 3\Prueba1\bin\Debug\Prueba1.exe.config
+C:\Users\Administrador\Desktop\Programacion 3\Prueba1\obj\Debug\Prueba1.exe
+C:\Users\Administrador\Desktop\Programacion 3\Prueba1\obj\Debug\Prueba1.pdb
+C:\Users\Administrador\Desktop\Programacion 3\Prueba1\bin\Debug\Prueba1.exe
+C:\Users\Administrador\Desktop\Programacion 3\Prueba1\bin\Debug\Prueba1.pdb
+C:\Users\Administrador\Desktop\Programacion 3\Prueba1\obj\Debug\Prueba1.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\Programacion 3\Prueba1\obj\Debug\Prueba1.Agregaralumno.resources
+C:\Users\Administrador\Desktop\Programacion 3\Prueba1\obj\Debug\Prueba1.AgregarAula.resources
+C:\Users\Administrador\Desktop\Programacion 3\Prueba1\obj\Debug\Prueba1.AgregarCarrera.resources
+C:\Users\Administrador\Desktop\Programacion 3\Prueba1\obj\Debug\Prueba1.AgregarDirectivos.resources
+C:\Users\Administrador\Desktop\Programacion 3\Prueba1\obj\Debug\Prueba1.AgregarEmpleado.resources
+C:\Users\Administrador\Desktop\Programacion 3\Prueba1\obj\Debug\Prueba1.AgregarHorario.resources
+C:\Users\Administrador\Desktop\Programacion 3\Prueba1\obj\Debug\Prueba1.AgregarMateria.resources
+C:\Users\Administrador\Desktop\Programacion 3\Prueba1\obj\Debug\Prueba1.AgregarProfesor.resources
+C:\Users\Administrador\Desktop\Programacion 3\Prueba1\obj\Debug\Prueba1.AgregarTutor.resources
+C:\Users\Administrador\Desktop\Programacion 3\Prueba1\obj\Debug\Prueba1.AsignarAlumno.resources
+C:\Users\Administrador\Desktop\Programacion 3\Prueba1\obj\Debug\Prueba1.AsignarMateria.resources
+C:\Users\Administrador\Desktop\Programacion 3\Prueba1\obj\Debug\Prueba1.AulaxMateria.resources
+C:\Users\Administrador\Desktop\Programacion 3\Prueba1\obj\Debug\Prueba1.DirectivosxCarrera.resources
+C:\Users\Administrador\Desktop\Programacion 3\Prueba1\obj\Debug\Prueba1.EliminarAlumno.resources
+C:\Users\Administrador\Desktop\Programacion 3\Prueba1\obj\Debug\Prueba1.EliminarAula.resources
+C:\Users\Administrador\Desktop\Programacion 3\Prueba1\obj\Debug\Prueba1.EliminarCarrera.resources
+C:\Users\Administrador\Desktop\Programacion 3\Prueba1\obj\Debug\Prueba1.EliminarDirectivo.resources
+C:\Users\Administrador\Desktop\Programacion 3\Prueba1\obj\Debug\Prueba1.EliminarEmpleado.resources
+C:\Users\Administrador\Desktop\Programacion 3\Prueba1\obj\Debug\Prueba1.EliminarHorario.resources
+C:\Users\Administrador\Desktop\Programacion 3\Prueba1\obj\Debug\Prueba1.EliminarMateria.resources
+C:\Users\Administrador\Desktop\Programacion 3\Prueba1\obj\Debug\Prueba1.EliminarProfesor.resources
+C:\Users\Administrador\Desktop\Programacion 3\Prueba1\obj\Debug\Prueba1.EliminarTutor.resources
+C:\Users\Administrador\Desktop\Programacion 3\Prueba1\obj\Debug\Prueba1.Form1.resources
+C:\Users\Administrador\Desktop\Programacion 3\Prueba1\obj\Debug\Prueba1.MateriasxCarrera.resources
+C:\Users\Administrador\Desktop\Programacion 3\Prueba1\obj\Debug\Prueba1.MateriaxAlumno.resources
+C:\Users\Administrador\Desktop\Programacion 3\Prueba1\obj\Debug\Prueba1.MateriaxProfesor.resources
+C:\Users\Administrador\Desktop\Programacion 3\Prueba1\obj\Debug\Prueba1.ModificarAlumno.resources
+C:\Users\Administrador\Desktop\Programacion 3\Prueba1\obj\Debug\Prueba1.ModificarAulas.resources
+C:\Users\Administrador\Desktop\Programacion 3\Prueba1\obj\Debug\Prueba1.ModificarCarrera.resources
+C:\Users\Administrador\Desktop\Programacion 3\Prueba1\obj\Debug\Prueba1.ModificarDirectivo.resources
+C:\Users\Administrador\Desktop\Programacion 3\Prueba1\obj\Debug\Prueba1.ModificarEmpleado.resources
+C:\Users\Administrador\Desktop\Programacion 3\Prueba1\obj\Debug\Prueba1.ModificarHorario.resources
+C:\Users\Administrador\Desktop\Programacion 3\Prueba1\obj\Debug\Prueba1.ModificarMateria.resources
+C:\Users\Administrador\Desktop\Programacion 3\Prueba1\obj\Debug\Prueba1.ModificarProfesor.resources
+C:\Users\Administrador\Desktop\Programacion 3\Prueba1\obj\Debug\Prueba1.ModificarTutor.resources
+C:\Users\Administrador\Desktop\Programacion 3\Prueba1\obj\Debug\Prueba1.MostrarMateria.resources
+C:\Users\Administrador\Desktop\Programacion 3\Prueba1\obj\Debug\Prueba1.Mostratablas.resources
+C:\Users\Administrador\Desktop\Programacion 3\Prueba1\obj\Debug\Prueba1.Properties.Resources.resources
+C:\Users\Administrador\Desktop\Programacion 3\Prueba1\obj\Debug\Prueba1.TutorxAlumno.resources
+C:\Users\Administrador\Desktop\Programacion 3\Prueba1\obj\Debug\Prueba1.csproj.GenerateResource.Cache
+E:\Programacion 3\Prueba1\bin\Debug\Prueba1.exe.config
+E:\Programacion 3\Prueba1\obj\Debug\Prueba1.exe
+E:\Programacion 3\Prueba1\obj\Debug\Prueba1.pdb
+E:\Programacion 3\Prueba1\bin\Debug\Prueba1.exe
+E:\Programacion 3\Prueba1\bin\Debug\Prueba1.pdb
+E:\Programacion 3\Prueba1\obj\Debug\Prueba1.csprojResolveAssemblyReference.cache
+E:\Programacion 3\Prueba1\obj\Debug\Prueba1.Agregaralumno.resources
+E:\Programacion 3\Prueba1\obj\Debug\Prueba1.AgregarAula.resources
+E:\Programacion 3\Prueba1\obj\Debug\Prueba1.AgregarCarrera.resources
+E:\Programacion 3\Prueba1\obj\Debug\Prueba1.AgregarDirectivos.resources
+E:\Programacion 3\Prueba1\obj\Debug\Prueba1.AgregarEmpleado.resources
+E:\Programacion 3\Prueba1\obj\Debug\Prueba1.AgregarHorario.resources
+E:\Programacion 3\Prueba1\obj\Debug\Prueba1.AgregarMateria.resources
+E:\Programacion 3\Prueba1\obj\Debug\Prueba1.AgregarProfesor.resources
+E:\Programacion 3\Prueba1\obj\Debug\Prueba1.AgregarTutor.resources
+E:\Programacion 3\Prueba1\obj\Debug\Prueba1.AsignarAlumno.resources
+E:\Programacion 3\Prueba1\obj\Debug\Prueba1.AsignarMateria.resources
+E:\Programacion 3\Prueba1\obj\Debug\Prueba1.AulaxMateria.resources
+E:\Programacion 3\Prueba1\obj\Debug\Prueba1.DirectivosxCarrera.resources
+E:\Programacion 3\Prueba1\obj\Debug\Prueba1.EliminarAlumno.resources
+E:\Programacion 3\Prueba1\obj\Debug\Prueba1.EliminarAula.resources
+E:\Programacion 3\Prueba1\obj\Debug\Prueba1.EliminarCarrera.resources
+E:\Programacion 3\Prueba1\obj\Debug\Prueba1.EliminarDirectivo.resources
+E:\Programacion 3\Prueba1\obj\Debug\Prueba1.EliminarEmpleado.resources
+E:\Programacion 3\Prueba1\obj\Debug\Prueba1.EliminarHorario.resources
+E:\Programacion 3\Prueba1\obj\Debug\Prueba1.EliminarMateria.resources
+E:\Programacion 3\Prueba1\obj\Debug\Prueba1.EliminarProfesor.resources
+E:\Programacion 3\Prueba1\obj\Debug\Prueba1.EliminarTutor.resources
+E:\Programacion 3\Prueba1\obj\Debug\Prueba1.Form1.resources
+E:\Programacion 3\Prueba1\obj\Debug\Prueba1.MateriasxCarrera.resources
+E:\Programacion 3\Prueba1\obj\Debug\Prueba1.MateriaxAlumno.resources
+E:\Programacion 3\Prueba1\obj\Debug\Prueba1.MateriaxProfesor.resources
+E:\Programacion 3\Prueba1\obj\Debug\Prueba1.ModificarAlumno.resources
+E:\Programacion 3\Prueba1\obj\Debug\Prueba1.ModificarAulas.resources
+E:\Programacion 3\Prueba1\obj\Debug\Prueba1.ModificarCarrera.resources
+E:\Programacion 3\Prueba1\obj\Debug\Prueba1.ModificarDirectivo.resources
+E:\Programacion 3\Prueba1\obj\Debug\Prueba1.ModificarEmpleado.resources
+E:\Programacion 3\Prueba1\obj\Debug\Prueba1.ModificarHorario.resources
+E:\Programacion 3\Prueba1\obj\Debug\Prueba1.ModificarMateria.resources
+E:\Programacion 3\Prueba1\obj\Debug\Prueba1.ModificarProfesor.resources
+E:\Programacion 3\Prueba1\obj\Debug\Prueba1.ModificarTutor.resources
+E:\Programacion 3\Prueba1\obj\Debug\Prueba1.MostrarMateria.resources
+E:\Programacion 3\Prueba1\obj\Debug\Prueba1.Mostratablas.resources
+E:\Programacion 3\Prueba1\obj\Debug\Prueba1.Properties.Resources.resources
+E:\Programacion 3\Prueba1\obj\Debug\Prueba1.TutorxAlumno.resources
+E:\Programacion 3\Prueba1\obj\Debug\Prueba1.csproj.GenerateResource.Cache
+C:\Users\Raiden\Desktop\UTN\Programacion 3\Prueba1\bin\Debug\Prueba1.exe.config
+C:\Users\Raiden\Desktop\UTN\Programacion 3\Prueba1\obj\Debug\Prueba1.exe
+C:\Users\Raiden\Desktop\UTN\Programacion 3\Prueba1\obj\Debug\Prueba1.pdb
+C:\Users\Raiden\Desktop\UTN\Programacion 3\Prueba1\bin\Debug\Prueba1.exe
+C:\Users\Raiden\Desktop\UTN\Programacion 3\Prueba1\bin\Debug\Prueba1.pdb
+C:\Users\Raiden\Desktop\UTN\Programacion 3\Prueba1\obj\Debug\Prueba1.csprojResolveAssemblyReference.cache
+C:\Users\Raiden\Desktop\UTN\Programacion 3\Prueba1\obj\Debug\Prueba1.Agregaralumno.resources
+C:\Users\Raiden\Desktop\UTN\Programacion 3\Prueba1\obj\Debug\Prueba1.AgregarAula.resources
+C:\Users\Raiden\Desktop\UTN\Programacion 3\Prueba1\obj\Debug\Prueba1.AgregarCarrera.resources
+C:\Users\Raiden\Desktop\UTN\Programacion 3\Prueba1\obj\Debug\Prueba1.AgregarDirectivos.resources
+C:\Users\Raiden\Desktop\UTN\Programacion 3\Prueba1\obj\Debug\Prueba1.AgregarEmpleado.resources
+C:\Users\Raiden\Desktop\UTN\Programacion 3\Prueba1\obj\Debug\Prueba1.AgregarHorario.resources
+C:\Users\Raiden\Desktop\UTN\Programacion 3\Prueba1\obj\Debug\Prueba1.AgregarMateria.resources
+C:\Users\Raiden\Desktop\UTN\Programacion 3\Prueba1\obj\Debug\Prueba1.AgregarProfesor.resources
+C:\Users\Raiden\Desktop\UTN\Programacion 3\Prueba1\obj\Debug\Prueba1.AgregarTutor.resources
+C:\Users\Raiden\Desktop\UTN\Programacion 3\Prueba1\obj\Debug\Prueba1.AsignarAlumno.resources
+C:\Users\Raiden\Desktop\UTN\Programacion 3\Prueba1\obj\Debug\Prueba1.AsignarMateria.resources
+C:\Users\Raiden\Desktop\UTN\Programacion 3\Prueba1\obj\Debug\Prueba1.AulaxMateria.resources
+C:\Users\Raiden\Desktop\UTN\Programacion 3\Prueba1\obj\Debug\Prueba1.DirectivosxCarrera.resources
+C:\Users\Raiden\Desktop\UTN\Programacion 3\Prueba1\obj\Debug\Prueba1.EliminarAlumno.resources
+C:\Users\Raiden\Desktop\UTN\Programacion 3\Prueba1\obj\Debug\Prueba1.EliminarAula.resources
+C:\Users\Raiden\Desktop\UTN\Programacion 3\Prueba1\obj\Debug\Prueba1.EliminarCarrera.resources
+C:\Users\Raiden\Desktop\UTN\Programacion 3\Prueba1\obj\Debug\Prueba1.EliminarDirectivo.resources
+C:\Users\Raiden\Desktop\UTN\Programacion 3\Prueba1\obj\Debug\Prueba1.EliminarEmpleado.resources
+C:\Users\Raiden\Desktop\UTN\Programacion 3\Prueba1\obj\Debug\Prueba1.EliminarHorario.resources
+C:\Users\Raiden\Desktop\UTN\Programacion 3\Prueba1\obj\Debug\Prueba1.EliminarMateria.resources
+C:\Users\Raiden\Desktop\UTN\Programacion 3\Prueba1\obj\Debug\Prueba1.EliminarProfesor.resources
+C:\Users\Raiden\Desktop\UTN\Programacion 3\Prueba1\obj\Debug\Prueba1.EliminarTutor.resources
+C:\Users\Raiden\Desktop\UTN\Programacion 3\Prueba1\obj\Debug\Prueba1.Form1.resources
+C:\Users\Raiden\Desktop\UTN\Programacion 3\Prueba1\obj\Debug\Prueba1.MateriasxCarrera.resources
+C:\Users\Raiden\Desktop\UTN\Programacion 3\Prueba1\obj\Debug\Prueba1.MateriaxAlumno.resources
+C:\Users\Raiden\Desktop\UTN\Programacion 3\Prueba1\obj\Debug\Prueba1.MateriaxProfesor.resources
+C:\Users\Raiden\Desktop\UTN\Programacion 3\Prueba1\obj\Debug\Prueba1.ModificarAlumno.resources
+C:\Users\Raiden\Desktop\UTN\Programacion 3\Prueba1\obj\Debug\Prueba1.ModificarAulas.resources
+C:\Users\Raiden\Desktop\UTN\Programacion 3\Prueba1\obj\Debug\Prueba1.ModificarCarrera.resources
+C:\Users\Raiden\Desktop\UTN\Programacion 3\Prueba1\obj\Debug\Prueba1.ModificarDirectivo.resources
+C:\Users\Raiden\Desktop\UTN\Programacion 3\Prueba1\obj\Debug\Prueba1.ModificarEmpleado.resources
+C:\Users\Raiden\Desktop\UTN\Programacion 3\Prueba1\obj\Debug\Prueba1.ModificarHorario.resources
+C:\Users\Raiden\Desktop\UTN\Programacion 3\Prueba1\obj\Debug\Prueba1.ModificarMateria.resources
+C:\Users\Raiden\Desktop\UTN\Programacion 3\Prueba1\obj\Debug\Prueba1.ModificarProfesor.resources
+C:\Users\Raiden\Desktop\UTN\Programacion 3\Prueba1\obj\Debug\Prueba1.ModificarTutor.resources
+C:\Users\Raiden\Desktop\UTN\Programacion 3\Prueba1\obj\Debug\Prueba1.MostrarMateria.resources
+C:\Users\Raiden\Desktop\UTN\Programacion 3\Prueba1\obj\Debug\Prueba1.Mostratablas.resources
+C:\Users\Raiden\Desktop\UTN\Programacion 3\Prueba1\obj\Debug\Prueba1.Properties.Resources.resources
+C:\Users\Raiden\Desktop\UTN\Programacion 3\Prueba1\obj\Debug\Prueba1.TutorxAlumno.resources
+C:\Users\Raiden\Desktop\UTN\Programacion 3\Prueba1\obj\Debug\Prueba1.csproj.GenerateResource.Cache
